@@ -1,5 +1,9 @@
 # Movie Recommendation Systems
 
+<div align="center">
+  <img src="images/poster.png" width="400">
+</div>
+
 ## Overview
 
 This repository contains a comprehensive collection of movie recommendation systems. The goal is to implement and explore various methods of recommending movies to users, including:
