@@ -10,7 +10,7 @@ This repository contains a comprehensive collection of movie recommendation syst
 
 - **Collaborative Filtering:** Based on user-item interactions.
 - **Content-Based Filtering:** Based on movie metadata (e.g., genre, cast, overview).
-- **Bayesian Average:** Combines multiple factors like user ratings and popularity.
+- **Bayesian Rating:** Combines multiple factors like user ratings and popularity.
 - **Future Methods:** Planned additions include hybrid models, matrix factorization, deep learning-based recommenders, and more.
 
 ## Table of Contents
@@ -32,7 +32,7 @@ This repository contains a comprehensive collection of movie recommendation syst
    - Recommends movies similar to those the user has liked in the past, based on metadata.
    - Example: TF-IDF vectorization, cosine similarity.
 
-3. **Bayesian Method**
+3. **Bayesian Rating**
    - A simple yet effective approach combining various factors such as average rating and popularity.
    - Example: IMDB-style weighted rating.
 
