@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains a comprehensive collection of movie recommendation systems. The goal is to implement and explore various methods of recommending movies to users, including:
+This repository provides practical implementations, detailed explanations, and comparisons of these methods to offer insights into building effective recommendation systems. The goal is to implement and explore various methods of recommending movies to users, including:
 
 - **Collaborative Filtering:** Based on user-item interactions.
 - **Content-Based Filtering:** Based on movie metadata (e.g., genre, cast, overview).
